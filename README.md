@@ -15,5 +15,5 @@ Password for serveradmin query login.
 The following ports are required:
 
 * 9987 UDP
-* 27015 TCP
+* 30033 TCP
 * 10011 TCP
