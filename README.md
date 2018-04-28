@@ -1,7 +1,7 @@
 # Docker Teamspeak
 This container allows you to run a Teamspeak3 Server.
 
-`docker run --name teamspeak -d -p 10011:10011 -p 30033:30033 -p 9987:9987/udp -e VERSION=3.0.13.8 -e QUERY_PW="your_query_pw" --restart unless-stopped kaycon/teamspeak`
+`docker run --name teamspeak -d -p 10011:10011 -p 30033:30033 -p 9987:9987/udp -e VERSION=3.0.13.8 -e QUERY_PW="your_query_pw" kaycon/teamspeak`
 
 ## Parameters
 **VERSION**
